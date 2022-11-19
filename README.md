@@ -1,8 +1,3 @@
-<h3 align="left">Get Social:</h3>
-
-[![Linkedin: kenanmasri](https://img.shields.io/badge/-kenanmasri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenanmasri/)](https://www.linkedin.com/in/kenanmasri/)
-[![GitHub kenanmasri](https://img.shields.io/github/followers/kenanmasri?label=follow&style=social)](https://github.com/kenanmasri)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
