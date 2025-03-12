@@ -1,6 +1,6 @@
-<h1>Account moved to <a href="https://github.com/knno">@knno</a></h1>
+<!-- <h1>Account moved to <a href="https://github.com/knno">@knno</a></h1> -->
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
@@ -30,6 +30,7 @@
   <td colspan="3" align="center"><sub>Eager to learn more ^^</sub></td>
   </tr>
 </table>
+-->
 
 <!-- ![Kenans's github stats](https://github-readme-stats.vercel.app/api?username=kenanmasri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 -->
