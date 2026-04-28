@@ -1,7 +1,13 @@
-<!-- <h1>Account moved to <a href="https://github.com/knno">@knno</a></h1> -->
+<!-- <h1>Main personal development account is <a href="https://github.com/knno">@knno</a></h1> -->
 
-<!--
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Profile</h3>
+
+- 👋 Hi, I’m @kenanmasri (@knno is my other account)
+- 🌱 I’m currently doing entrepreneurship.
+- 💞️ I’m looking to collaborate on open-source software, mostly related to automotive tech.
+
+
+<h3 align="left">My Favorite Tools and Languages</h3>
 
 <table>
   <tr>
@@ -16,29 +22,38 @@
   <tr>
   <td><a title="Python" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
   <td><a title="Django" href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a></td>
-  <td><a title="Flask" href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a></td>
+  <td><a title="Flask" href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a></td>
   <td><a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></td>
   <td><a title="SQLite" href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a></td>
   <td><a title="PostgreSQL" href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></td>
   <td><a title="Nginx" href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-  <td><a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></td>
+  <td><a title="GitHub" href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a></td>
+  <td><a title="Blender" href="https://blender.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a></td>
+  <td><a title="Cloudflare" href="https://cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/> </a></td>
+  <td><a title="Webpack" href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></td>
+  <td><a title="Windows 11" href="https://windows.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows 11" width="40" height="40"/> </a></td>
+  <td><a title="Visual Studio Code" href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a></td>
+  <td><a title="Android Studio" href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+  <td><a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a></td>
   <td><a title="Vagrant" href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a></td>
-  <td><a title="Adobe Photoshop" href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></td>
-  <td><a title="Postman" href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></td>
-  <td colspan="3" align="center"><sub>Eager to learn more ^^</sub></td>
+  <td><a title="Adobe Photoshop" href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a></td>
+  <td><a title="Postman" href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a></td>
+  <td><a title="Materialize CSS" href="https://materializecss.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materializecss/materializecss-original.svg" alt="materializecss" width="40" height="40"/> </a></td>
+  <td colspan="2" align="center"><sub>Eager to learn more ^^</sub></td>
   </tr>
 </table>
--->
-
-<!-- ![Kenans's github stats](https://github-readme-stats.vercel.app/api?username=kenanmasri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
--->
 
 <!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenanmasri&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kenanmasri" /></p>
--->
+![Kenans's github stats](https://github-readme-stats.vercel.app/api?username=kenanmasri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenanmasri&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kenanmasri" /></p>
+
+-->
 
 <!---
 - 👋 Hi, I’m @kenanmasri
